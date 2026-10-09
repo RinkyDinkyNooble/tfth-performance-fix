@@ -4,6 +4,30 @@ A companion mod for The Flesh That Hates 1.1b (Forge 1.20.1) that makes it run f
 
 Client, server or both. They don't need to match.
 
+## Before And After
+
+Same spot and settings, without the patch and then with it. The FPS counter is in the top left.
+
+A field of about 2,500 flesh spikes: **16 FPS** average without, **43 FPS** with.
+
+Without:
+
+![Spike field without the patch](https://raw.githubusercontent.com/RinkyDinkyNooble/tfth-performance-fix/main/curseforge/images/s2_before.jpg)
+
+With:
+
+![Spike field with the patch](https://raw.githubusercontent.com/RinkyDinkyNooble/tfth-performance-fix/main/curseforge/images/s2_after.jpg)
+
+A pen full of flesh mobs: **153 FPS** average without, **164 FPS** with.
+
+Without:
+
+![Flesh mobs without the patch](https://raw.githubusercontent.com/RinkyDinkyNooble/tfth-performance-fix/main/curseforge/images/s1_before.jpg)
+
+With:
+
+![Flesh mobs with the patch](https://raw.githubusercontent.com/RinkyDinkyNooble/tfth-performance-fix/main/curseforge/images/s1_after.jpg)
+
 ## Faster
 
 - The flesh fog and flesh music checks no longer read every block within 30 blocks of you. They skip the parts of the world with no flesh in them.
