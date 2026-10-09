@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="0BSD"
+
+[[mods]]
+modId="tfthperformancefix_verify"
+version="0.0.0"
+displayName="TFTH Performance Fix: dev checks"
+description='''Dev-only check commands for TFTH Performance Fix. Never shipped.'''
+
+[[dependencies.tfthperformancefix_verify]]
+    modId="tfthperformancefix"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"

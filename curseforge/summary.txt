@@ -1,0 +1,1 @@
+Makes The Flesh That Hates run faster and fixes its worst bugs, like infection spreads lost at every restart.
