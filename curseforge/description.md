@@ -2,8 +2,6 @@
 
 A companion mod for The Flesh That Hates 1.1b (Forge 1.20.1) that makes it run faster and fixes some of its bugs. The Flesh That Hates itself is still required.
 
-Client, server or both. They don't need to match.
-
 ## Before And After
 
 Same spot and settings, without the patch and then with it. The FPS counter is in the top left.
@@ -50,10 +48,6 @@ With:
 - The Flesh Unseen is registered at its real size instead of 0 by 0. With Presence Footsteps, each Flesh Unseen searched an 81 by 81 block area under its feet for every step, which made the game stutter.
 
 The log has one line for each patched part of The Flesh That Hates, saying how many changes applied.
-
-## Reason For Existing
-
-Exists until if/when The Flesh That Hates fixes these issues itself.
 
 ### Credit
 
